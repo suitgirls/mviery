@@ -1,7 +1,7 @@
 body {
     color:#FFC0CB;
-    background-color: blue;
+    background-color:#DC143C;
 }
-h1 {color:aliceblue; background-color:#DC143C}
-h2 {color:#DC143C;}
-a {color:#DC143C;}
+h1 {color:aliceblue; background-color:blue;}
+h2 {color:blue;}
+a {color:blue;}

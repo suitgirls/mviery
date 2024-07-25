@@ -7,4 +7,8 @@ h1 {color:aliceblue; background-color:blue;
 font-family: 'Space Mono', monospace}
 h2 {color:blue;
 font-family: 'Space Mono', monospace;}
+nav {background-color:#6495ED;}
+nav a {color:white;}
+nav {color:white;}
+nav a:hover {background-color:#483D8B;}
 a {color:blue;}

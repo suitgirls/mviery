@@ -1,7 +1,10 @@
 body {
     color:#000000;
     background-color:#af3b52;
+    font-family: Geneva;
 }
-h1 {color:aliceblue; background-color:blue;}
-h2 {color:blue;}
+h1 {color:aliceblue; background-color:blue;
+font-family: 'Space Mono', monospace}
+h2 {color:blue;
+font-family: 'Space Mono', monospace;}
 a {color:blue;}
